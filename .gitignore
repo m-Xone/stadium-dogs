@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+# Local speech-model environments and downloads (see tools/record_voice.py for setup)
+.voice-venv/
+.kokoro-venv/
+accent-model/

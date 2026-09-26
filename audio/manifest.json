@@ -1,0 +1,893 @@
+{
+ "bye-ad": {
+  "accent": "england",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "811e34517b66",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "bf_emma"
+ },
+ "bye-boosters": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "92082856b1e6",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "af_nicole"
+ },
+ "bye-bunsale": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "29fdb07dda6f",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "af_bella"
+ },
+ "bye-fee": {
+  "accent": "england",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "d93eb0e059be",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "bm_george"
+ },
+ "bye-freezer": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "6116db19ce74",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "am_michael"
+ },
+ "bye-grill": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "b54dea0c6325",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "am_fenrir"
+ },
+ "bye-mice": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "6116db19ce74",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "am_michael"
+ },
+ "bye-pricewar": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "747f9881754b",
+  "spoken": "Okay, thanks! Bye!",
+  "voice": "af_heart"
+ },
+ "call-arena": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "d93eb0e059be",
+  "spoken": "Arena office! Here are the numbers for today's event.",
+  "voice": "bm_george"
+ },
+ "call-bank": {
+  "accent": "england",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "2c9cf4d019ff",
+  "spoken": "First City Bank! Here's your account information.",
+  "voice": "bm_fable"
+ },
+ "call-helpers": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "7a7cbfcac913",
+  "spoken": "Helping Hands! How many helpers do you want at your stand? Each one costs 25 dollars per event, and helps you serve 120 more customers.",
+  "voice": "af_sarah"
+ },
+ "call-joe": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "b54dea0c6325",
+  "spoken": "Joe's Grill Repair! Your grill's running fine? Great. Call me if anything breaks!",
+  "voice": "am_fenrir"
+ },
+ "check-sent": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Your check is on its way! Your supplies are being delivered to the stand.",
+  "voice": "am_puck"
+ },
+ "day-1": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 1st.",
+  "voice": "am_puck"
+ },
+ "day-10": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 10th.",
+  "voice": "am_puck"
+ },
+ "day-11": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 11th.",
+  "voice": "am_puck"
+ },
+ "day-12": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 12th.",
+  "voice": "am_puck"
+ },
+ "day-13": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 13th.",
+  "voice": "am_puck"
+ },
+ "day-14": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 14th.",
+  "voice": "am_puck"
+ },
+ "day-15": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 15th.",
+  "voice": "am_puck"
+ },
+ "day-16": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 16th.",
+  "voice": "am_puck"
+ },
+ "day-17": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 17th.",
+  "voice": "am_puck"
+ },
+ "day-18": {
+  "accent": "canada",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 18th.",
+  "voice": "am_puck"
+ },
+ "day-19": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 19th.",
+  "voice": "am_puck"
+ },
+ "day-2": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 2nd.",
+  "voice": "am_puck"
+ },
+ "day-20": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 20th.",
+  "voice": "am_puck"
+ },
+ "day-21": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 21st.",
+  "voice": "am_puck"
+ },
+ "day-22": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 22nd.",
+  "voice": "am_puck"
+ },
+ "day-23": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 23rd.",
+  "voice": "am_puck"
+ },
+ "day-24": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 24th.",
+  "voice": "am_puck"
+ },
+ "day-25": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 25th.",
+  "voice": "am_puck"
+ },
+ "day-26": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 26th.",
+  "voice": "am_puck"
+ },
+ "day-27": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 27th.",
+  "voice": "am_puck"
+ },
+ "day-28": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 28th.",
+  "voice": "am_puck"
+ },
+ "day-29": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 29th.",
+  "voice": "am_puck"
+ },
+ "day-3": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 3rd.",
+  "voice": "am_puck"
+ },
+ "day-30": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 30th.",
+  "voice": "am_puck"
+ },
+ "day-31": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 31st.",
+  "voice": "am_puck"
+ },
+ "day-4": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 4th.",
+  "voice": "am_puck"
+ },
+ "day-5": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 5th.",
+  "voice": "am_puck"
+ },
+ "day-6": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 6th.",
+  "voice": "am_puck"
+ },
+ "day-7": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 7th.",
+  "voice": "am_puck"
+ },
+ "day-8": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 8th.",
+  "voice": "am_puck"
+ },
+ "day-9": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Today is the 9th.",
+  "voice": "am_puck"
+ },
+ "event-baseball": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "There's a baseball game at seven in the evening! Look at the to-do list on your desk to get ready.",
+  "voice": "am_puck"
+ },
+ "event-circus": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "There's a circus at two in the afternoon! Look at the to-do list on your desk to get ready.",
+  "voice": "am_puck"
+ },
+ "event-concert": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "There's a concert at eight in the evening! Look at the to-do list on your desk to get ready.",
+  "voice": "am_puck"
+ },
+ "event-football": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "There's a football game at four in the afternoon! Look at the to-do list on your desk to get ready.",
+  "voice": "am_puck"
+ },
+ "event-soccer": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "There's a soccer game at seven in the evening! Look at the to-do list on your desk to get ready.",
+  "voice": "am_puck"
+ },
+ "forecast-intro": {
+  "accent": "canada",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Here's today's forecast.",
+  "voice": "am_puck"
+ },
+ "guide-board": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "The bulletin board has news from the arena, seating capacity, a tip, and your inventory.",
+  "voice": "am_puck"
+ },
+ "guide-calendar": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "The calendar shows every event this month.",
+  "voice": "am_puck"
+ },
+ "guide-checkbook": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Write a check for each bill. Fill in the supplier's name and the exact amount, then sign it.",
+  "voice": "am_puck"
+ },
+ "guide-computer": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Your computer has the Franchise Report, the Estimator, and a Calculator.",
+  "voice": "am_puck"
+ },
+ "guide-desk": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Click on things on your desk: the computer, phone, calendar, to-do list, checkbook or journal.",
+  "voice": "am_puck"
+ },
+ "guide-journal": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Your journal keeps the results of every event.",
+  "voice": "am_puck"
+ },
+ "guide-phone": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Dial a number from the list, or click a name to call.",
+  "voice": "am_puck"
+ },
+ "guide-sign": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Set your prices. Fans compare your prices with the other stands.",
+  "voice": "am_puck"
+ },
+ "guide-stand": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 0.95,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "This is your stand. Point at your supplies to count them. When you are ready, flip the sign to open!",
+  "voice": "am_puck"
+ },
+ "guide-suppliers": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Each supplier has different prices, and they change every day. Compare them, fill in how many you want, and send the order. Then pay with a check!",
+  "voice": "am_puck"
+ },
+ "guide-todo": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Here is your list of things to do before each event.",
+  "voice": "am_puck"
+ },
+ "hired-0": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "7a7cbfcac913",
+  "spoken": "No helpers? Okay. Call us anytime!",
+  "voice": "af_sarah"
+ },
+ "hired-1": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "7a7cbfcac913",
+  "spoken": "You got it! One helper will work at your stand for every event until you call us again.",
+  "voice": "af_sarah"
+ },
+ "hired-2": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "7a7cbfcac913",
+  "spoken": "You got it! Two helpers will work at your stand for every event until you call us again.",
+  "voice": "af_sarah"
+ },
+ "oops": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Hold on! That's not quite right. Check my note.",
+  "voice": "am_puck"
+ },
+ "open": {
+  "accent": "us",
+  "emotion": 1,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "We're open! Here come the fans!",
+  "voice": "am_puck"
+ },
+ "order-0": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Order sent to Maple Lane Farms! Now write them a check. They deliver as soon as they're paid.",
+  "voice": "am_puck"
+ },
+ "order-1": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Order sent to Big City Foods! Now write them a check. They deliver as soon as they're paid.",
+  "voice": "am_puck"
+ },
+ "order-2": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Order sent to Uncle Sal's Sausage Supply! Now write them a check. They deliver as soon as they're paid.",
+  "voice": "am_puck"
+ },
+ "out-chips": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Oh no! We're out of chips!",
+  "voice": "am_puck"
+ },
+ "out-cola": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Oh no! We're out of cola!",
+  "voice": "am_puck"
+ },
+ "out-hotdog": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Oh no! We're out of hot dogs!",
+  "voice": "am_puck"
+ },
+ "out-turkey": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Oh no! We're out of turkey dogs!",
+  "voice": "am_puck"
+ },
+ "problem-ad": {
+  "accent": "england",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "811e34517b66",
+  "spoken": "Hello! We'd love to run an ad for your stand in today's sports section. Only 30 dollars, and we promise more customers!",
+  "voice": "bf_emma"
+ },
+ "problem-boosters": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "92082856b1e6",
+  "spoken": "Hi! The school band is raising money for new uniforms. Could you donate 20 dollars? We'll tell all our families to buy from you!",
+  "voice": "af_nicole"
+ },
+ "problem-bunsale": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "29fdb07dda6f",
+  "spoken": "Big news! Every supplier in town has our day-old buns at half price, today only. Remember, day-old buns only last through today's event.",
+  "voice": "af_bella"
+ },
+ "problem-fee": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "d93eb0e059be",
+  "spoken": "This is Arena Management. Every stand is being charged a 15-dollar cleanup fee for today.",
+  "voice": "bm_george"
+ },
+ "problem-freezer": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 0.947,
+  "ref": "6116db19ce74",
+  "spoken": "Your freezer quit overnight! Buy dry ice for 20 dollars to save your franks, or lose half of them.",
+  "voice": "am_michael"
+ },
+ "problem-grill": {
+  "accent": "us",
+  "emotion": 0.55,
+  "engine": "chatterbox",
+  "match": 0.967,
+  "ref": "b54dea0c6325",
+  "spoken": "Hi, it's Joe. I looked at your grill, and it's busted. I can fix it before the gates open for 40 dollars. Otherwise, no hot dogs or turkey dogs today!",
+  "voice": "am_fenrir"
+ },
+ "problem-mice": {
+  "accent": "us",
+  "emotion": 0.65,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "6116db19ce74",
+  "spoken": "Bad news: mice got into your chips! An exterminator will save the rest for 25 dollars, or you can throw out the chewed bags (about a third of them).",
+  "voice": "am_michael"
+ },
+ "problem-pricewar": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 0.865,
+  "ref": "747f9881754b",
+  "spoken": "Psst! I just saw Wiener Wagon put up a sign: hot dogs for 1 dollar and 50 cents today!",
+  "voice": "af_heart"
+ },
+ "ring-desk": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "The phone is ringing! Click the phone to answer it.",
+  "voice": "am_puck"
+ },
+ "ring-office": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Ring, ring! The phone on your desk is ringing. Click the desk to answer it.",
+  "voice": "am_puck"
+ },
+ "ring-stand": {
+  "accent": "us",
+  "emotion": 0.85,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Wait! The phone is ringing back at the office. Better answer it first.",
+  "voice": "am_puck"
+ },
+ "season-over": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "The season is over! Let's see how you did.",
+  "voice": "am_puck"
+ },
+ "warn-empty": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Your stand is empty! You'll still have to pay rent. Flip the sign again to open anyway.",
+  "voice": "am_puck"
+ },
+ "warn-unpaid": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "You haven't paid all your suppliers! Unpaid orders won't be delivered. Flip the sign again to open anyway.",
+  "voice": "am_puck"
+ },
+ "weather-cold": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Cold and windy, with a temperature around 44 degrees.",
+  "voice": "am_puck"
+ },
+ "weather-cool": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Cloudy and cool, with a temperature around 61 degrees.",
+  "voice": "am_puck"
+ },
+ "weather-hot": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Sunny and hot, with a temperature around 92 degrees.",
+  "voice": "am_puck"
+ },
+ "weather-rain": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Thunderstorms, with a temperature around 65 degrees.",
+  "voice": "am_puck"
+ },
+ "weather-warm": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "Partly sunny, with a temperature around 78 degrees.",
+  "voice": "am_puck"
+ },
+ "wrap-loss": {
+  "accent": "us",
+  "emotion": 0.45,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "That's a wrap. We lost money today. Let's read the journal and see what happened.",
+  "voice": "am_puck"
+ },
+ "wrap-profit": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "ee2ca30bb2ba",
+  "spoken": "That's a wrap! Good job, we made a profit today.",
+  "voice": "am_puck"
+ },
+ "wrong-0": {
+  "accent": "us",
+  "emotion": 0.8,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "6116db19ce74",
+  "spoken": "Pizza Palace! Sorry, we don't sell hot dogs. Only pizza. Lots of pizza.",
+  "voice": "am_michael"
+ },
+ "wrong-1": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "cafcdac157e0",
+  "spoken": "Hello? Grandma? ...Oh. Wrong number! Sorry!",
+  "voice": "af_kore"
+ },
+ "wrong-2": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 0.917,
+  "ref": "d93eb0e059be",
+  "spoken": "Moooo. You have reached the answering machine at Happy Cow Dairy Farm.",
+  "voice": "bm_george"
+ },
+ "wrong-3": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "4dffb9b528d1",
+  "spoken": "You've reached the Time Lady. At the tone, the time will be... snack time.",
+  "voice": "af_aoede"
+ },
+ "wrong-4": {
+  "accent": "us",
+  "emotion": 0.7,
+  "engine": "chatterbox",
+  "match": 1.0,
+  "ref": "7fc3d516ce72",
+  "spoken": "Hi, this is Carla's Car Wash. We're busy scrubbing right now. Call back later!",
+  "voice": "af_nova"
+ }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stadium-dogs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A point-and-click stadium concession stand business game for the browser",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "open index.html"
+  }
+}
